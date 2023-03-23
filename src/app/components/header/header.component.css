@@ -1,0 +1,21 @@
+header {
+    min-height: 100px;
+    width: 100%;
+    background:#29364e;
+    border-bottom: 2px solid white;
+}
+
+.right {
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav h1 {
+    color: rgb(209, 194, 194);
+    margin-top: 20px;
+    margin: 10px;
+}
