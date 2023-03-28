@@ -1,0 +1,26 @@
+ul {
+    background-color: #cccccc9d;
+    font-family: Arial, Helvetica, sans-serif;
+    /* list-style: none; */
+    border-radius: 15px;
+}
+
+ul li:hover {
+    font-size: large;
+}
+
+ul li {
+    margin-top: 10px;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    padding: 0px;
+    border-radius: 10px;
+}
+
+.backgroundRed {
+    background-color: rgb(223, 140, 140);
+}
+
+.backgroundWhite {
+    background-color: white;
+}
