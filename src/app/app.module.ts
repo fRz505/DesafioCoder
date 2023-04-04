@@ -6,6 +6,8 @@ import { SidebarComponent } from './components/sidebar/sidebar.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { ContentComponent } from './components/content/content.component';
 import { HeaderComponent } from './components/header/header.component';
+import { FormComponent } from './components/form/form.component';
+
 
 
 @NgModule({
@@ -13,7 +15,9 @@ import { HeaderComponent } from './components/header/header.component';
     AppComponent, 
     SidebarComponent,
     ContentComponent,
-    HeaderComponent
+    HeaderComponent,
+    FormComponent,
+    
   ],
   imports: [
     BrowserModule,
