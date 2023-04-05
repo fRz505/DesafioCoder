@@ -1,0 +1,7 @@
+.valid-input {
+    outline: 2px solid rgb(153, 240, 142);
+}
+
+.invalid-input {
+    outline: 2px solid rgb(219, 144, 144);
+}
